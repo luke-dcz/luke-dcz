@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">𝙷𝚒! 𝙸 𝚊𝚖 Luke <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
       
-![Snake animation](https://github.com/luke-dcz/luke-dcz/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
