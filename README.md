@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">𝙷𝚒! 𝙸 𝚊𝚖 S𝚊𝚖 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">𝙷𝚒! 𝙸 𝚊𝚖 Luke <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
       
-![Snake animation](https://github.com/syywu/syywu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luke-dcz/luke-dcz/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a href="https://twitter.com/syywuu"><img src="https://img.shields.io/badge/-@syywuu-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/samantha-wu-5a2a25141/"><img src="https://img.shields.io/badge/-Samantha_Wu-0072b1?style=flat&logo=Linkedin&logoColor=white"/>
+<!-- <a href="https://www.linkedin.com/in/samantha-wu-5a2a25141/"><img src="https://img.shields.io/badge/-Samantha_Wu-0072b1?style=flat&logo=Linkedin&logoColor=white"/> -->
 </a>
 </div>
 
