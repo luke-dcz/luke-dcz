@@ -1,37 +1,20 @@
-### Hi there 👋
-
-<!--
-**luke-dcz/luke-dcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">𝙷𝚒! 𝙸 𝚊𝚖 Luke <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center" >𝙷i 👋🏽, 𝙸 𝚊𝚖 Luke
+</h1>
+ <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" align="right">
       
+- 📍 Based in **London, United Kingdom**.
+- 🎓 Pursuing a **BSc Computer Science degree** at **Royal Holloway University of London**.
+- 💻 After a 10 month internship doing **Full Stack Engineering** at **Atos**, I was able to develop a passion for Frontend dev and working on web applications.
+
+  My current favourite technologies are [Next.JS](https://nextjs.org), [React](https://reactjs.org), [Graphql](https://graphql.org) and [TailwindCSS](https://tailwindcss.com/)
+
+
 ![mishmanners snake gif](https://github.com/luke-dcz/luke-dcz/blob/output/github-contribution-grid-snake.svg)
 
-<!-- <p align="center">
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syywu&&theme=radical&layout=compact&custom_title=Languages" />
- </p>  -->
+<h3 align="center">Connect with me!</h3>
+<p align="center">
+      <a href="https://www.linkedin.com/in/luke-da-cruz-4427041bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukedacruz" height="30" width="40" /></a>
+      <a href="https://instagram.com/luke_dcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luke_dcz" height="30" width="40" /></a>
+</p>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=syywu&label=Profile%20views&color=0e75b6&style=flat" alt="syywu"/></p> -->
-<!-- <p align="center">  <img src="https://www.codewars.com/users/syywu/badges/small"/> </p> -->
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<!-- <a href="https://twitter.com/syywuu"><img src="https://img.shields.io/badge/-@syywuu-00acee?style=flat&logo=Twitter&logoColor=white" /></a> -->
-<!-- <a href="https://www.linkedin.com/in/samantha-wu-5a2a25141/"><img src="https://img.shields.io/badge/-Samantha_Wu-0072b1?style=flat&logo=Linkedin&logoColor=white"/> -->
-</a>
-</div>
-
-
-<!-- ![](https://leetcard.jacoblin.cool/syywu?ext=heatmap) -->
 
