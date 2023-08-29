@@ -9,7 +9,7 @@
   My current favourite technologies are [Next.JS](https://nextjs.org), [React](https://reactjs.org), [Graphql](https://graphql.org) and [TailwindCSS](https://tailwindcss.com/)
 
 
-![mishmanners snake gif](https://github.com/luke-dcz/luke-dcz/blob/output/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://github.com/luke-dcz/luke-dcz/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 <h3 align="center">Connect with me!</h3>
 <p align="center">
