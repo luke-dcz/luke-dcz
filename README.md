@@ -1,4 +1,4 @@
-<h1 align="center" >𝙷i 👋🏽, 𝙸 𝚊𝚖 Luke
+<h1 align="left" >𝙷i 👋🏽, 𝙸 𝚊𝚖 Luke
 </h1>
  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" align="right">
       
