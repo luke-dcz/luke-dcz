@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" align="right">
       
 - 📍 Based in **London, United Kingdom**.
-- 🎓 Pursuing a **BSc Computer Science degree** at **Royal Holloway University of London**.
+- 🎓  **BSc Computer Science Graduate** from **Royal Holloway University of London**.
 - 💻 After a 10 month internship doing **Full Stack Engineering** at **Atos**, I was able to develop a passion for Frontend dev and working on web applications.
 
   My current favourite technologies are [Next.JS](https://nextjs.org), [React](https://reactjs.org), [Graphql](https://graphql.org) and [TailwindCSS](https://tailwindcss.com/)
