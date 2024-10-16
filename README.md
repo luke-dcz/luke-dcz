@@ -1,6 +1,5 @@
-<h1 align="left" >𝙷i 👋🏽, 𝙸 𝚊𝚖 Luke
+<h1 align="left" >Hi 👋🏽, I am Luke.
 </h1>
- <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" align="right">
       
 - 📍 Based in **London, United Kingdom**.
 - 🎓  **First Class BSc Computer Science Graduate** from **Royal Holloway University of London**.
