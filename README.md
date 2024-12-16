@@ -1,4 +1,4 @@
-### Hi, I'm Luke!
+# Hi, I'm Luke!
 - 💻 Currently working as a **Full Stack Engineer** at **Eviden**.
 - 📍 Based in **London, United Kingdom**.
 - 🎓  **First Class BSc Computer Science Graduate** from **Royal Holloway University of London**.
