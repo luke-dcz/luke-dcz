@@ -1,5 +1,5 @@
 # Hi, I'm Luke!
-- 💻 Currently working as a **Full Stack Engineer** at **Eviden**.
+- 💻 Currently working as a **Full Stack Engineer** at **Atos**.
 - 📍 Based in **London, United Kingdom**.
 - 🎓  **First Class BSc Computer Science Graduate** from **Royal Holloway University of London**.
 - 🌱 I’m currently learning about Remix and Prisma, and exploring other alternatives to Next.js.
